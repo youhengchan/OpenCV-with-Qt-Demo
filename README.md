@@ -1,10 +1,6 @@
 # OpenCV-with-Qt-Demo
 ⚡️⚡️A simple app for demonstrating how to intermingle OpenCV api with Qt Framework.   
-&nbsp; 
-
-## What is this app made for?
-A simple app for demonstrating how to intermingle OpenCV api with Qt Framework.  
-&nbsp;    
+&nbsp;  
 
 ## Basic functions
 - Pre-load specific guide img (see Screenshots below)
