@@ -45,9 +45,9 @@ It did helped me and I did stared it coz without which I should then start from 
 
 &nbsp;  
 ## What do I need to build it myself?
-- ![Qt 5.13.1 MSVC2017](www.qt.io/download-open-source)  
-- ![OpenCV 4.1.x](https://opencv.org/)
-- ![Bonus for people  who understand Mandarain Chinese](https://blog.csdn.net/chenhanxuan1999/article/details/100811034)  
+- ![Qt 5.13.1 MSVC2017] (www.qt.io/download-open-source)  
+- ![OpenCV 4.1.x] (https://opencv.org/)
+- ![Bonus for people  who understand Mandarain Chinese] (https://blog.csdn.net/chenhanxuan1999/article/details/100811034)  
 Bonus: Download my pre-build package and install elegantly with hands-on tutorial in Chinese  
 
 # ![My CSDN Blog](https://blog.csdn.net/chenhanxuan1999)
